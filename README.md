@@ -1,2 +1,2 @@
 # WangBerlin.github.io
-website
+This is a new beginning! I hope to be better in the future.
